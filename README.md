@@ -5,7 +5,7 @@ This repository contains the code and data for the research paper by Lin et.al.
 ## Directory Structure and File Descriptions
 
 - **Mei et.al codes/**  
-  Contains the code from Mei et al. for implementing baseflow separation using the SMM method.
+  Contains the code from Mei et al (2024) for implementing baseflow separation using the SMM method.
 
 - **Mei et.al data/**  
   - **SO_FSpl-SMM-EC/**  
