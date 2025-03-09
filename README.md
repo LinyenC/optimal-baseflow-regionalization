@@ -5,7 +5,7 @@ This repository contains the code and data for the research paper by Lin et.al.
 ## Directory Structure and File Descriptions
 
 - **codes/**  
-  Contains the Random forest models used in this study for predicting the parameter N.
+  Contains the Random forest models used in this study for predicting the parameter N.  
   Also contains the code for implementing baseflow separation using the SMM method.
 
 - **Mei et.al data/**  
@@ -13,9 +13,6 @@ This repository contains the code and data for the research paper by Lin et.al.
     Contains the runoff data for the basins used in this study.  
   - **ResTab.mat**  
     Contains the optimal parameter values (N) for the SMM for each basin.
-
-- **RF2.pkl, RF3.pkl, RF4.pkl**  
-  Random forest models used in this study for predicting the parameter N.
 
 - **run_Nprediction.py**  
   Python script for predicting the parameter N using the provided random forest models.
