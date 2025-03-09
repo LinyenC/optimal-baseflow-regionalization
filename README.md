@@ -1,3 +1,3 @@
 # README
 
-Please switch to the master brance.
+Please switch to the master branch.
