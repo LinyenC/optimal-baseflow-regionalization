@@ -17,9 +17,9 @@ allX = df[['Area', 'RE', 'vf_clay_s', 'Ksat', 'Wsat', 'TMAXmax', 'P_frac', 'P5',
 
 notNan_index = ~np.isnan(allX).any(1)
 
-RF2 = joblib.load(r'.\RF2.pkl')
-RF3 = joblib.load(r'.\RF3.pkl')
-RF4 = joblib.load(r'.\RF4.pkl')
+RF2 = joblib.load(r'.\codes\RF2.pkl')
+RF3 = joblib.load(r'.\codes\RF3.pkl')
+RF4 = joblib.load(r'.\codes\RF4.pkl')
 
 ymodel_RF2 = RF2.predict(allX[notNan_index])
 ymodel_RF3 = RF3.predict(allX[notNan_index])
