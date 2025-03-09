@@ -10,7 +10,7 @@ This repository contains the code and data for the research paper by Lin et.al.
 
 - **Mei et.al data/**  
   - **SO_FSpl-SMM-EC/**  
-    Contains the runoff data for the basins used in this study.  
+    Contains the runoff data for the basins used in this study, which is obtained from https://zenodo.org/records/8388365.  
   - **ResTab.mat**  
     Contains the optimal parameter values (N) for the SMM for each basin.
 
