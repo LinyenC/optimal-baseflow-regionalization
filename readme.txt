@@ -38,3 +38,4 @@ This repository contains the code and data for the research paper by Lin et.al.
 
 2. **Baseflow Separation:**  
    Execute `run_SMM.m` in MATLAB, ensuring that `predicted_N.xlsx` and the required runoff data from `Mei et.al data/SO_FSpl-SMM-EC/` are available. The output baseflow separation results will be stored in the `BF_result/` directory.
+
