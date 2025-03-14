@@ -1,4 +1,4 @@
-addpath('.\Mei et.al codes')
+addpath('.\codes')
 
 stationInfo = load('.\Mei et.al data\ResTab.mat');
 
